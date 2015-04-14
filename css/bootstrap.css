@@ -13,6 +13,10 @@ a{
 .white-text{
     color: #FFF;
 }
+.navbar-wrapper,
+body{
+    min-width: 480px;
+}
 
 /*!
  * Bootstrap v3.3.4 (http://getbootstrap.com)
@@ -25,10 +29,12 @@ html {
   font-family: 'Oswald', sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+   
 }
 
 body {
   margin: 0;
+  
 }
 article,
 aside,
