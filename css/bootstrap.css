@@ -7,8 +7,11 @@ font-family: 'Lato', sans-serif;
 {
     
 }
-.red-text{
-    color: darkred; 
+a{
+    text-decoration: none;
+}
+.white-text{
+    color: #FFF;
 }
 
 /*!
