@@ -36,3 +36,11 @@ $overlay.click(function(){
 $overlay.hide();
 $overlay.finish();  
 });
+
+function sendGallery(){
+    $('#main-content').load('inc/gallery.php');
+    console.log('sendGallery'); 
+}; 
+
+
+    

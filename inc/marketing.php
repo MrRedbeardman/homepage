@@ -7,10 +7,10 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img-circle" src="img/logos/htmlcapture.JPG" alt="Generic placeholder image" width="140" height="140">
+          <a href="#" onclick="sendGallery()"><img class="img-circle" src="img/logos/htmlcapture.JPG" alt="Generic placeholder image" width="140" height="140"></a>
           <h2>Photo Gallery</h2>
           <p>Photos from my travels for both work and play.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#" role="button">View Gallery &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="img/logos/profile.jpg" alt="Generic placeholder image" width="140" height="140">

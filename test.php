@@ -1,3 +1,4 @@
+
 <!--PHP HEADER INCLUDE BEGIN-->
 <?php include('inc/header.php');?>
 <!--PHP HEADER INCLUDE END-->
@@ -9,15 +10,8 @@
 <hr class="featurette-divider">
 <!--MAIN CONTENT-->
         <div id="main-content">
-            <?php include('inc/products.php'); ?>
-            <center>
-            <ul id="imageGallery">
-                <?php foreach($products as $product_id=> $product){ 
-                      echo get_list_view_html($product_id, $product);
-                    } 
-                ?>                   
-            </ul>
-            </center>
+            
+            <?php include('inc/gallery.php');?>
             
             
             
@@ -34,5 +28,16 @@
 <!--PHP FOOTER INCLUDE BEGIN-->
 <?php include('inc/footer.php');?>
 <!--PHP FOOTER INCLUDE END-->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/app.js"></script>
+    
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
 <!--END OF INDEX.PHP-->
         
