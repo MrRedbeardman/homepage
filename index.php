@@ -1,22 +1,29 @@
-<!--Begin transfer to PHP 4.14.15 8pm-->
+<!--PHP HEADER INCLUDE BEGIN-->
+<?php include('inc/header.php');?>
+<!--PHP HEADER INCLUDE END-->
 
-<?php include('inc/header.php')?>
+<!--PHP CAROUSEL INCLUDE BEGIN-->
+<?php include('inc/carousel.php');?>
+<!--PHP CAROUSEL INCLUDE END-->
 
-<?php include('inc/carousel.php')?>
-    
-
-      <hr class="featurette-divider">
-
-
+<hr class="featurette-divider">
+<!--MAIN CONTENT-->
         <div id="main-content">
+          
+            
+            
             
         </div>
+<!--END MAIN CONTENT-->
+<hr class="featurette-divider">
 
-        <hr class="featurette-divider">
-<?php include('inc/marketing.php')?>
+<!--PHP MARKETING BUBBLES INCLUDE BEGIN-->
+<?php include('inc/marketing.php');?>
+<!--PHP MARKETING BUBBLES INCLUDE END-->
 
+<hr class="featurette-divider">
 
-
-<?php include('inc/footer.php')?>
-
-        
+<!--PHP FOOTER INCLUDE BEGIN-->
+<?php include('inc/footer.php');?>
+<!--PHP FOOTER INCLUDE END-->
+<!--END OF INDEX.PHP-->

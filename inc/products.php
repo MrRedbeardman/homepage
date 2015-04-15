@@ -16,9 +16,8 @@ $products[] = array(
 function get_list_view_html($product_id, $product) {
     $output = "";
     $output = $output . "<li>";
-    $output = $output .  '<a href="shirt.php?id=' . $product_id . '">';
-    $output = $output . '<img src="' . $product["img"] . '" alt="' . $product["name"] . '">';
-    $output = $output .  "<p>View Details</p>";
+    $output = $output .  '<a href="' . $product["img"] . '">';
+    $output = $output . '<img class="img-circle" src="' . $product["thumb"] . '" alt="' . $product["name"] . '">';
     $output = $output .  "</a>";
     $output = $output .  "</li>"; 
     return $output; 
@@ -37,7 +36,7 @@ $products[101] = array(
 $products[102] = array(
 	"name" => "Alaska Light",
     "thumb" => "img/thumbs/aklightthumb.jpg",
-	"img" => "img/pics/aklight.",
+	"img" => "img/pics/aklight.jpg",
     "description" => "Snow falling around a streetlight in Fairbanks, Alaska",
 	"location" => "Fairbanks, Alaska",
     "year" => "2009",
