@@ -13,7 +13,6 @@ $("body").append($overlay);
     
 // Capture the click event on a link to an image
 $("#imageGallery a").click(function(event){
-    console.log("Click Heard");
   event.preventDefault();
   var imageLocation = $(this).attr("href");
   // Update overlay with the image linked in the link 

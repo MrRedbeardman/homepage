@@ -17,6 +17,10 @@ a{
 body{
     min-width: 480px;
 }
+#main-content{
+    padding-left: 30px;
+    padding-right: 30px;
+}
 
 #main_content ul {
 	list-style:none;

@@ -47,8 +47,8 @@
                 <li><a href="about.php#main-content">About</a></li>
                 <li><a href="gallery.php#main-content">Photo Gallery</a></li>
                 <li><a href="development.php#main-content">Web Development</a></li>
-                <li><a href="contact.php"#main-content>Contact</a></li>  
-                <li><a href="test.php"#main-content>TEST</a></li>
+                <li><a href="contact.php#main-content"#main-content>Contact</a></li>  
+                
 <!--
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
