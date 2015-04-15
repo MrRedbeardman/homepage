@@ -60,7 +60,7 @@
           <h2 class="featurette-heading">And a new path started:<span class="text-muted"></span></h2>
           <p class="lead">My wife and I started dating a few months after I returned home. We had known each other for a long time, but I had no idea she was interested in me. Once we started hanging out more it all just fell into place. She&#39;s an amazing and brilliant woman… and by far the best thing that has ever happened to me. </p>
 
-<p class="lead">I&#39;d been exploring different career options. My forte required travel, and I didn&#39;t want to travel for work anymore. The part time job gave me a chance to try out a couple different things. I helped out a local AV company, a sign shop, and a machine shop. Then I came across a story on CNN about “How to make $30&#92;hour without a degree.” Even though I have a degree, it caught my interest. The article briefly covered web design, the growing market, and the qualifications employers were looking for.</p> 
+<p class="lead">I&#39;d been exploring different career options. My forte required travel, and I didn&#39;t want to travel for work anymore. The part time job gave me a chance to try out a couple different things. I helped out a local AV company, a sign shop, and a machine shop. Then I came across a story on CNN about "How to become a web developer without a degree." Even though I have a degree, it caught my interest. The article briefly covered web design, the growing market, and the qualifications employers were looking for.</p> 
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="img/boxes/intothesunsetsquare.jpg" alt="Generic placeholder image">
