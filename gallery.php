@@ -4,7 +4,7 @@
 <!--PHP HEADER INCLUDE END-->
 
 <!--PHP CAROUSEL INCLUDE BEGIN-->
-<?php include('inc/carousel.php');?>
+
 <!--PHP CAROUSEL INCLUDE END-->
 
 <hr class="featurette-divider">
@@ -17,7 +17,7 @@
             
         </div>
 <!--END MAIN CONTENT-->
-<hr class="featurette-divider">
+
 
 
 <hr class="featurette-divider">
