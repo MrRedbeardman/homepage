@@ -6,14 +6,9 @@
 <?php include('inc/carousel.php');?>
 <!--PHP CAROUSEL INCLUDE END-->
 
-<hr class="featurette-divider">
+
 <!--MAIN CONTENT-->
-        <div id="main-content">
-          
-            
-            
-            
-        </div>
+        
 <!--END MAIN CONTENT-->
 <hr class="featurette-divider">
 
