@@ -10,16 +10,14 @@ $products[] = array(
     "aspect" => "11"
 );
 -->
-
+<a class="fancybox-thumb" rel="fancybox-thumb" href="img/pics/aklight.jpg" title="Alaska Light"><img src="img/thumbs/aklightthumb.jpg" alt="" /></li>
 <?php
 
 function get_list_view_html($product_id, $product) {
     $output = "";
-    $output = $output . "<li>";
-    $output = $output .  '<a href="' . $product["img"] . '">';
-    $output = $output . '<img class="img-circle" src="' . $product["thumb"] . '" alt="' . $product["name"] . '">';
+    $output = $output . '<a class="fancybox-thumb" rel="fancybox-thumb" href="' . $product["img"] . '" title="' . $product["name"] . '">';
+    $output = $output . '<img src="' . $product["thumb"] . '">';
     $output = $output .  "</a>";
-    $output = $output .  "</li>"; 
     return $output; 
 }
 

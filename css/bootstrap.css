@@ -30,7 +30,7 @@ body{
 	width: 100%;
 	text-align: center;
 	}
-#main-content ul li {
+#main-content a {
 	display: inline-block;
 	padding: 2px;
 	background-color: transparent;
