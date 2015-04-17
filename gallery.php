@@ -78,8 +78,7 @@
       </div>
     </div>
 <!--body -->
-<body>
-<?php include('inc/carousel.php')?>    
+<body>   
 <hr class="featurette-divider">
 <!--MAIN CONTENT-->
         <div id="main-content">
