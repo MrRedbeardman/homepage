@@ -13,7 +13,7 @@
             <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Web Development for Small Business</h2>
-          <p class="lead">Are you a small business owner who is looking to increase their digital footprint? I&#39;m looking to expand my portfolio. <a href="contact.php">Contact Me</a> for a free consultation.</p>
+          <p class="lead">Are you a small business owner who is looking to increase their digital footprint? I&#39;m looking to expand my portfolio. <a href="contact.php#main-content">Contact Me</a> for a free consultation.</p>
             
                 <p>Web Design and Development</p>
                 <p>Logo Design</p>

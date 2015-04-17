@@ -44,9 +44,9 @@
               <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">The road comes to an end:<span class="text-muted"></span></h2>
-          <p class="lead">After what amounted to about 5 years straight on the road, I&#39;d had enough. I wanted to know where I was going to be the next week. Doing that kind of work you pretty much have to stay 100&#37; travel. There isn&#39;t enough work in one place to sustain it long term. My specialty was running big projects, which often meant no time for vacation or trips home. I was road wary and ready to settle down.</p> 
+          <p class="lead">After what amounted to about 5 years straight on the road, I&#39;d had enough. I wanted to know where I was going to be the next week. Doing that kind of work you pretty much have to stay 100&#37; travel. There isn&#39;t enough work in one place to sustain it long term. My specialty was running big projects, which often meant no time for vacation or trips home. I was road weary and ready to settle down.</p> 
 
-<p class="lead">I&#39;d been in touch with an old contact and he had a part time position open in his IT department. I finished the project I was working on and started my current job in March of 2012. It was nowhere near as exciting as securing flight-lines and armories… but it got me home every night.</p> 
+<p class="lead">I&#39;d been in touch with an old contact and he had a part time position open in his IT department. I finished the project I was working on and started my current job in March of 2012. While the job is nowhere near as exciting as securing flight-lines and armories, I like the people I work with and it gets me home every night.</p> 
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="img/boxes/a10.jpg" alt="The cannon on an A10 Warthog">
